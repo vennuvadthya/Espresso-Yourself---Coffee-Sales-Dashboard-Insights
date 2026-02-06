@@ -26,5 +26,5 @@ This project demonstrates my Excel and data analysis skills for entry-level Data
 
 ## 📌 Author
  V.Vennela
- Aspiring Data Analyst
+| Aspiring Data Analyst |
  IIT ISM Dhanbad
