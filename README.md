@@ -21,8 +21,10 @@ This project is an interactive Coffee Sales Dashboard built using Microsoft Exce
 - Coffee_Sales_Dashboard.xlsx – Interactive dashboard
 - dashboard.png – Dashboard preview
 
-## 🎯 Purpose
+## 🎯 Purpose 
 This project demonstrates my Excel and data analysis skills for entry-level Data Analyst roles.
 
 ## 📌 Author
-Your Name
+ V.Vennela
+ Aspiring Data Analyst
+ IIT ISM Dhanbad
